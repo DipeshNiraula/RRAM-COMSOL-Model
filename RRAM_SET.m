@@ -2,7 +2,7 @@ function out = model
 import com.comsol.model.*
 import com.comsol.model.util.*
 model = ModelUtil.create('Model');
-model.modelPath('C:\Users\dipes\Desktop\RRAM_model');
+model.modelPath('C:\RRAM_model');
 %assign parameters - global freature
 model.param.set('r_f', '3[nm]', 'filament radius');
 model.param.set('r_d', '10[nm]', 'device radius');
