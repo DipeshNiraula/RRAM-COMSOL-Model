@@ -1,5 +1,5 @@
 # Comprehensive numerical modeling of filamentary RRAM devices including voltage ramp-rate and cycle-to-cycle variations
-The set of files are the product of my PhD research. These matlab files needs COMSOL and livelink to MATLAB to operate. 
+The set of files are the product of my PhD research. These matlab files need COMSOL and livelink to MATLAB to operate. 
 Executing them will reproduce RRAM device operation including SET and RESET process. 
 The three main files, named Complete_I_V, generates average device characteristics, ramp-date dependency, and cycle-to-cycle variation. 
 Please read the Catalog for a detailed description including how to execute found under Section 3. Implementation.  
