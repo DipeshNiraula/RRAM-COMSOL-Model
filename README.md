@@ -9,4 +9,4 @@ Note: One needs LiveLink to MATLAB to run these files. LiveLink to Matlab is a C
 
 LiveLink to MATLAB comes with the COMSOL Multiphysics with MATALB executable. Clicking this will automatically open a MATLAB linked to COMSOL.
 
-[Catalog](./)
+[Catalog](./Catalog_git.pdf)
