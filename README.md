@@ -40,7 +40,7 @@ To Do: Replace repeated minimization codes (Coarse minimization + Brents Minimiz
 9. [Dipesh Niraula and Victor G. Karpov, “Heat transfer in filamentary RRAM devices,” IEEE Trans. El. Dev., 64, 4160 (2017).](https://doi.org/10.1109/TED.2017.2741782)
 
 ### Noise Analysis
-10.	[V.G. Karpov and D. Niraula, “Log-Normal Statistics in Filamentary RRAM Devices and Related Systems,” IEEE El. Dev. Letts. 38, 1240 (2017).](https://doi.org/10.1109/LED.2017.2734961)
+10.	[V. G. Karpov and D. Niraula, “Log-Normal Statistics in Filamentary RRAM Devices and Related Systems,” IEEE El. Dev. Letts. 38, 1240 (2017).](https://doi.org/10.1109/LED.2017.2734961)
 
 ### PhD Desertation
 11.	[Dipesh Niraula, "Physics and applications of conductive filaments in electronic structures: from metal whiskers to solid state memory." Doctoral dissertation, University of Toledo, 2019.](http://rave.ohiolink.edu/etdc/view?acc_num=toledo1561471348406944)
