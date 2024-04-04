@@ -28,7 +28,7 @@ To Do: Replace repeated minimization codes (Coarse minimization + Brents Minimiz
 
 5. [D. Niraula and V. Karpov, “Comprehensive Numerical Modeling of Filamentary RRAM device,” Proceeding of the 2018 COMSOL conference, Boston, MA, Oct 3-5, 2018](https://www.comsol.com/paper/download/566882/niraula_paper.pdf)
 
-6. [D. Niraula and V. Karpov, “Numerical Modeling of Resistive Switching in a RRAM device,” Proceeding of the 2017 COMSOL conference, Boston, MA, Oct 2017.](https://www.comsol.com/paper/download/437382/niraula_paper.pdf) [Best paper award]
+6. [D. Niraula and V. Karpov, “Numerical Modeling of Resistive Switching in a RRAM device,” Proceeding of the 2017 COMSOL conference, Boston, MA, Oct 2017.[Best paper award]](https://www.comsol.com/paper/download/437382/niraula_paper.pdf) 
 
 ### Quantum effects due to extremely small dimension
 7. [D. Niraula, C. R. Grice, and V. G. Karpov, “Dimensional quantization effects in the thermodynamics of conductive filaments,” Nanotechnology, 29, 265202 (2018).](https://doi.org/10.1088/1361-6528/aabdcb)
