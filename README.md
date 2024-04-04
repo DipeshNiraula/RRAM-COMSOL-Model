@@ -1,5 +1,6 @@
 ## Numerical modeling of resistive switching in RRAM device
 __Comprehensive numerical modeling of filamentary RRAM devices including voltage ramp-rate and cycle-to-cycle variations__
+
 The set of files are the product of my PhD research. These matlab files need COMSOL and livelink to MATLAB to operate. 
 Executing them will reproduce RRAM device operation including SET and RESET process. 
 
