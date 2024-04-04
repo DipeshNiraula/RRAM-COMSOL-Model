@@ -1,4 +1,5 @@
-## Comprehensive numerical modeling of filamentary RRAM devices including voltage ramp-rate and cycle-to-cycle variations
+## Numerical modeling of resistive switching in RRAM device
+__Comprehensive numerical modeling of filamentary RRAM devices including voltage ramp-rate and cycle-to-cycle variations__
 The set of files are the product of my PhD research. These matlab files need COMSOL and livelink to MATLAB to operate. 
 Executing them will reproduce RRAM device operation including SET and RESET process. 
 
@@ -19,7 +20,7 @@ LiveLink to MATLAB comes with the COMSOL Multiphysics with MATALB executable. Cl
 
 3. [V. G. Karpov and D. Niraula, “Resistive Switching in nanostructures,” Scientific Reports, 8, 12212 (2018).](https://doi.org/10.1038/s41598-018-30700-6)
    
-### Numerical Modeling of IV
+### Numerical Modeling
 4. [Dipesh Niraula and Victor Karpov, “Comprehensive numerical modeling of filamentary RRAM devices including voltage ramp-rate and cycle-to-cycle variations,” J. Appl. Phys., 124, 174502 (2018).](https://doi.org/10.1063/1.5042789)
 
 5. [D. Niraula and V. Karpov, “Comprehensive Numerical Modeling of Filamentary RRAM device,” Proceeding of the 2018 COMSOL conference, Boston, MA, Oct 3-5, 2018](https://www.comsol.com/paper/download/566882/niraula_paper.pdf)
