@@ -3,7 +3,7 @@ The set of files are the product of my PhD research. These matlab files need COM
 Executing them will reproduce RRAM device operation including SET and RESET process. 
 
 The three main files, named Complete_I_V, generates average device characteristics, ramp-date dependency, and cycle-to-cycle variation. 
-Please read the Catalog for a detailed description including how to execute found under Section 3. Implementation.  
+Please read the Catalog for a detailed description including how to execute, found under Section 3. Implementation.  
 
 Note: One needs LiveLink to MATLAB to run these files. LiveLink to Matlab is a COMSOL add-on product that enables MATLAB to access COMSOL Solver.
 
