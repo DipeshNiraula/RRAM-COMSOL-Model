@@ -13,6 +13,8 @@ LiveLink to MATLAB comes with the COMSOL Multiphysics with MATALB executable. Cl
 
 [Catalog](./CATALOG_git.pdf)
 
+To Do: Replace repeated minimization codes (Coarse minimization + Brents Minimization) with a function
+
 ## Related Work
 ### Theory of Resistive Switching
 1. [V. G. Karpov, D. Niraula, I. V. Karpov, and R. Kotlyar, “Thermodynamics of Phase Transitions and Bipolar Filamentary Switching in Resistive Random-Access Memory,” Phys. Rev. Appl., 8, 024028 (2017).](https://doi.org/10.1103/PhysRevApplied.8.024028)
